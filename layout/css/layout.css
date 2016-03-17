@@ -1,0 +1,39 @@
+#container{
+	width:62.828%;
+	background:yellow;
+	min-height:300px;
+	margin:auto;
+}
+header{
+	background:#aaa;
+	width:100%;
+	min-height:50px;
+	margin-bottom:20px;
+
+}
+nav{
+	
+	background:red;
+	min-height:100px;
+	width:100%;
+}
+#content{
+	width:100%;
+	background:#abdacaf;
+	overflow:auto;
+	padding:15px;
+	box-sizing:border-box;
+}
+.noidung{
+	width:29.284%;
+	background:#a000ff;
+	min-height:200px;
+	float:left;
+	margin-right:30px;
+}
+footer{
+	margin-top:10px;
+	background:blue;
+	min-height:70px;
+	clear:left;
+}
